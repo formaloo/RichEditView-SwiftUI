@@ -9,7 +9,7 @@ RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editi
 
 # Usage
 You can read the blog post below to see how you can implement a WYSIWYG editor in your own SwiftUI app:<br>
-*TBC*
+https://betterprogramming.pub/how-to-implement-a-wysiwyg-editor-in-swiftui-c60236749943
 
 # Demo
 
