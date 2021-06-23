@@ -6,6 +6,7 @@ target 'RichEditView-SwiftUI' do
   use_frameworks!
 
   # Pods for RichEditView-SwiftUI
+  # Avoid App Rejection: https://github.com/cjwirth/RichEditorView/issues/239#issuecomment-633494138
   pod 'RichEditorView', :git => 'https://github.com/T-Pro/RichEditorView.git', :branch => 'master'
 
 end
