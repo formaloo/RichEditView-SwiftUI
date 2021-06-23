@@ -1,0 +1,22 @@
+PODS:
+  - RichEditorView (4.0)
+
+DEPENDENCIES:
+  - RichEditorView (from `https://github.com/T-Pro/RichEditorView.git`, branch `master`)
+
+EXTERNAL SOURCES:
+  RichEditorView:
+    :branch: master
+    :git: https://github.com/T-Pro/RichEditorView.git
+
+CHECKOUT OPTIONS:
+  RichEditorView:
+    :commit: 3bc80911b285d663691d25441f1d92cc9ad2b8bf
+    :git: https://github.com/T-Pro/RichEditorView.git
+
+SPEC CHECKSUMS:
+  RichEditorView: 699e2e5762c0f811ab58ecdb9a640e5178f5752b
+
+PODFILE CHECKSUM: 3c297742bcc34031db86dce3e261e41cb8dbaea9
+
+COCOAPODS: 1.8.4
